@@ -8,7 +8,7 @@
         {
             "name": "Rich Kay",
             "email": "richfein71@gmail.com",
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "2.*",
